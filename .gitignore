@@ -1,0 +1,54 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+*.class
+*.o
+*.exe
+
+# Data and simulation output
+*.dat
+*.csv
+*.hdf5
+*.nc
+results/
+output/
+simulations/output/
+
+# Documentation builds
+docs/_build/
+*.pdf
+*.aux
+*.log
+*.out
+
+# Archive files (except intentional distributions)
+*.zip
+*.tar.gz
+*.rar
+
+# System files
+*.log
