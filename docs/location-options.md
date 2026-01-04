@@ -693,8 +693,8 @@ Each criterion scored 1-10 (10 = best, 1 = worst)
 | **Uganda (Kasese)** | 9 | 6 | 3 | 5 | 7 | 6 | 3 | **39** | **6th** |
 | **Sea-Based Indian** | 10 | 1 | 3 | 9 | 5 | 3 | 4 | **35** | **7th** |
 | **Congo (Northern)** | 10 | 1 | 2 | 4 | 7 | 5 | 2 | **31** | **8th** |
-| **Kiribati (Christmas)** | 8 | 1 | 2 | 8 | 5 | 4 | 2 | **30** | **9th** |
-| **Maldives** | 8 | 1 | 4 | 8 | 3 | 4 | 5 | **33** | **10th** |
+| **Maldives** | 8 | 1 | 4 | 8 | 3 | 4 | 5 | **33** | **9th** |
+| **Kiribati (Christmas)** | 8 | 1 | 2 | 8 | 5 | 4 | 2 | **30** | **10th** |
 | **Somalia** | 9 | 1 | 1 | 1 | 6 | 5 | 1 | **24** | **11th** |
 
 ### Weighted Scoring Analysis
