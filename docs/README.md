@@ -9,6 +9,7 @@ This directory contains technical documentation for the Jacob's Ladder space ele
 - [Materials](materials.md) - Material science research and cable materials
 - [Engineering](engineering.md) - Structural and mechanical engineering considerations
 - [Safety](safety.md) - Safety analysis and risk mitigation strategies
+- [Location Options](location-options.md) - Comprehensive analysis of ground station location candidates
 
 ## Document Status
 
