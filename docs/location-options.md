@@ -712,9 +712,9 @@ For critical factors (Infrastructure, Political Stability, Natural Disaster Risk
 | **Indonesia (Kalimantan)** | 36 | +14 (5+6+3) | **50** | **6th** |
 | **Sea-Based Atlantic** | 36 | +18 (3+10+5) | **54** | **5th** (tie) |
 | **Sea-Based Indian** | 35 | +17 (3+9+5) | **52** | **7th** |
-| **Congo (Northern)** | 31 | +13 (2+4+7) | **44** | **8th** |
-| **Maldives** | 33 | +15 (4+8+3) | **48** | **9th** |
-| **Kiribati** | 30 | +15 (2+8+5) | **45** | **10th** |
+| **Maldives** | 33 | +15 (4+8+3) | **48** | **8th** |
+| **Kiribati** | 30 | +15 (2+8+5) | **45** | **9th** |
+| **Congo (Northern)** | 31 | +13 (2+4+7) | **44** | **10th** |
 | **Somalia** | 24 | +8 (1+1+6) | **32** | **11th** |
 
 ## Top Three Recommended Options
