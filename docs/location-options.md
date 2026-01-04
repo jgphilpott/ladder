@@ -683,19 +683,19 @@ Each criterion scored 1-10 (10 = best, 1 = worst)
 
 | Location | Equator Proximity | Elevation | Infrastructure | Political Stability | Natural Disaster Risk | Cost | Accessibility | **Total Score** | **Ranking** |
 |----------|------------------|-----------|----------------|--------------------|-----------------------|------|--------------|----------------|-------------|
-| **Ecuador (Cayambe)** | 10 | 9 | 7 | 6 | 5 | 6 | 7 | **50** | **1st** |
-| **Kenya (Mt. Kenya)** | 9 | 8 | 6 | 7 | 7 | 7 | 7 | **51** | **1st** (tie) |
-| **Sea-Based Pacific** | 10 | 1 | 3 | 10 | 7 | 3 | 4 | **38** | **3rd** |
-| **Brazil (Macapá)** | 10 | 1 | 4 | 8 | 6 | 6 | 5 | **40** | **4th** |
-| **Gabon (Libreville)** | 9 | 1 | 4 | 7 | 7 | 5 | 5 | **38** | **3rd** (tie) |
-| **Indonesia (Kalimantan)** | 10 | 1 | 5 | 6 | 3 | 5 | 6 | **36** | **5th** |
-| **Sea-Based Atlantic** | 10 | 1 | 3 | 10 | 5 | 3 | 4 | **36** | **5th** (tie) |
-| **Uganda (Kasese)** | 9 | 6 | 3 | 5 | 7 | 6 | 3 | **39** | **6th** |
-| **Sea-Based Indian** | 10 | 1 | 3 | 9 | 5 | 3 | 4 | **35** | **7th** |
-| **Congo (Northern)** | 10 | 1 | 2 | 4 | 7 | 5 | 2 | **31** | **8th** |
-| **Maldives** | 8 | 1 | 4 | 8 | 3 | 4 | 5 | **33** | **9th** |
-| **Kiribati (Christmas)** | 8 | 1 | 2 | 8 | 5 | 4 | 2 | **30** | **10th** |
-| **Somalia** | 9 | 1 | 1 | 1 | 6 | 5 | 1 | **24** | **11th** |
+| **Kenya (Mt. Kenya)** | 9 | 8 | 6 | 7 | 7 | 7 | 7 | **51** | **1st** |
+| **Ecuador (Cayambe)** | 10 | 9 | 7 | 6 | 5 | 6 | 7 | **50** | **2nd** |
+| **Brazil (Macapá)** | 10 | 1 | 4 | 8 | 6 | 6 | 5 | **40** | **3rd** |
+| **Uganda (Kasese)** | 9 | 6 | 3 | 5 | 7 | 6 | 3 | **39** | **4th** |
+| **Sea-Based Pacific** | 10 | 1 | 3 | 10 | 7 | 3 | 4 | **38** | **5th** (tie) |
+| **Gabon (Libreville)** | 9 | 1 | 4 | 7 | 7 | 5 | 5 | **38** | **5th** (tie) |
+| **Indonesia (Kalimantan)** | 10 | 1 | 5 | 6 | 3 | 5 | 6 | **36** | **7th** (tie) |
+| **Sea-Based Atlantic** | 10 | 1 | 3 | 10 | 5 | 3 | 4 | **36** | **7th** (tie) |
+| **Sea-Based Indian** | 10 | 1 | 3 | 9 | 5 | 3 | 4 | **35** | **9th** |
+| **Maldives** | 8 | 1 | 4 | 8 | 3 | 4 | 5 | **33** | **10th** |
+| **Congo (Northern)** | 10 | 1 | 2 | 4 | 7 | 5 | 2 | **31** | **11th** |
+| **Kiribati (Christmas)** | 8 | 1 | 2 | 8 | 5 | 4 | 2 | **30** | **12th** |
+| **Somalia** | 9 | 1 | 1 | 1 | 6 | 5 | 1 | **24** | **13th** |
 
 ### Weighted Scoring Analysis
 
