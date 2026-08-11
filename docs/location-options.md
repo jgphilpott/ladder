@@ -812,7 +812,7 @@ East Africa uniquely combines multiple favorable factors:
 | Factor | **Entebbe** | **Nanyuki** | **Mt. Kenya Region** | **Jinja** |
 |--------|------------|------------|---------------------|-----------|
 | **Distance from Equator** | 6 km | 1 km | 10 km | 49 km |
-| **Elevation** | Sea level (~1,150m lake) | 1,900m | 2,000-3,000m | Sea level (~1,150m lake) |
+| **Elevation** | Low elevation (~1,150m ASL) | 1,900m | 2,000-3,000m | Low elevation (~1,150m ASL) |
 | **International Airport** | ✅ On-site | ⚠️ 200km (via Nairobi) | ⚠️ 200km+ (via Nairobi) | ❌ 80km+ (via Entebbe) |
 | **Power Infrastructure** | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ✅ Excellent (180 MW hydro) |
 | **Seaport Access** | ❌ Landlocked | ❌ Landlocked (450km to Mombasa) | ❌ Landlocked (450km to Mombasa) | ❌ Landlocked |
