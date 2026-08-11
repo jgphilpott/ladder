@@ -308,7 +308,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 2A. **Uganda - Entebbe/Lake Victoria** 🇺🇬
+#### 3. **Uganda - Entebbe/Lake Victoria** 🇺🇬
 - **Latitude:** 0° 3' 22" N (0.0562°N) - City Center
 - **Longitude:** 32° 28' 46" E (32.4795°E)
 - **Airport Coordinates:** 0° 2' 41" N (0.0447°N), 32° 26' 35" E (32.4431°E)
@@ -359,7 +359,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 2B. **Uganda - Jinja Region** 🇺🇬
+#### 4. **Uganda - Jinja Region** 🇺🇬
 - **Latitude:** 0° 26' 20" N (0.439°N)
 - **Longitude:** 33° 12' 11" E (33.203°E)
 - **Type:** Lake Victoria shore/Nile River outflow region
@@ -405,7 +405,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 2C. **Kenya - Nanyuki Region** 🇰🇪
+#### 5. **Kenya - Nanyuki Region** 🇰🇪
 - **Latitude:** 0° 1' 0" N (0.017°N)
 - **Longitude:** 37° 3' 0" E (37.05°E)
 - **Type:** Highland plateau (Mt. Kenya foothills)
@@ -450,7 +450,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 3. **Gabon - Libreville Region** 🇬🇦
+#### 6. **Gabon - Libreville Region** 🇬🇦
 - **Latitude:** 0° 23' N
 - **Longitude:** Approximately 9° E
 - **Type:** Coastal plain
@@ -485,7 +485,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 4. **Indonesia - West Kalimantan (Borneo)** 🇮🇩
+#### 7. **Indonesia - West Kalimantan (Borneo)** 🇮🇩
 - **Latitude:** 0° 0' 0" N (Pontianak on equator line)
 - **Longitude:** Approximately 109° E
 - **Type:** Coastal lowland
@@ -518,7 +518,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 5. **Brazil - Macapá Region (Amapá State)** 🇧🇷
+#### 8. **Brazil - Macapá Region (Amapá State)** 🇧🇷
 - **Latitude:** 0° 2' 4" N
 - **Longitude:** Approximately 51° W
 - **Type:** Amazon River delta region
@@ -553,7 +553,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 6. **Somalia - Equatorial Region** 🇸🇴
+#### 9. **Somalia - Equatorial Region** 🇸🇴
 - **Latitude:** 0° to 2° N
 - **Longitude:** Approximately 42° E
 - **Type:** Coastal plain
@@ -583,7 +583,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 7. **Republic of Congo - Northern Region** 🇨🇬
+#### 10. **Republic of Congo - Northern Region** 🇨🇬
 - **Latitude:** 0° to 1° N
 - **Longitude:** Approximately 17° E
 - **Type:** Rainforest region
@@ -615,7 +615,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 8. **Kiribati - Kiritimati (Christmas Island)** 🇰🇮
+#### 11. **Kiribati - Kiritimati (Christmas Island)** 🇰🇮
 - **Latitude:** 1° 52' N
 - **Longitude:** 157° W
 - **Type:** Pacific coral atoll
@@ -648,7 +648,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 9. **Maldives - Equatorial Atolls** 🇲🇻
+#### 12. **Maldives - Equatorial Atolls** 🇲🇻
 - **Latitude:** 0° to 4° N (various atolls)
 - **Longitude:** Approximately 73° E
 - **Type:** Indian Ocean coral atolls
@@ -683,7 +683,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ### Sea-Based Options
 
-#### 10. **Equatorial Pacific - Mobile Platform** 🌊
+#### 13. **Equatorial Pacific - Mobile Platform** 🌊
 - **Latitude:** 0° 0' 0" N (exact)
 - **Longitude:** Variable (optimal: 140-180° W)
 - **Type:** Mobile offshore platform
@@ -720,7 +720,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 11. **Equatorial Atlantic - Mobile Platform** 🌊
+#### 14. **Equatorial Atlantic - Mobile Platform** 🌊
 - **Latitude:** 0° 0' 0" N (exact)
 - **Longitude:** Variable (optimal: 20-30° W)
 - **Type:** Mobile offshore platform
@@ -753,7 +753,7 @@ All locations are within ±5° of the equator, with preference for 0° latitude.
 
 ---
 
-#### 12. **Equatorial Indian Ocean - Mobile Platform** 🌊
+#### 15. **Equatorial Indian Ocean - Mobile Platform** 🌊
 - **Latitude:** 0° 0' 0" N (exact)
 - **Longitude:** Variable (optimal: 70-90° E)
 - **Type:** Mobile offshore platform
