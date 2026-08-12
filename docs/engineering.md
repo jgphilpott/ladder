@@ -190,7 +190,7 @@ The elevator system has three major components: the **space station** (geostatio
 #### Phase 1: Space Station Deployment
 1. Launch and establish a geostationary station directly above the selected anchor location.
 2. This station serves as the orbital anchor point and houses the spider manufacturing units.
-3. No new technology is required at this stage — geostationary deployment is well-understood; the station will simply be larger than a typical satellite, closer in scale to a crewed space station.
+3. This stage relies on mature geostationary deployment and station-keeping techniques, though the station scale and systems integration challenges are larger than a typical satellite and closer to a crewed space station.
 
 #### Phase 2: Cable Printing via Dual Spider Units
 This is the primary innovation of the deployment strategy — cable is manufactured in-situ rather than unspooled from a pre-made reel.
@@ -207,7 +207,7 @@ If either spider runs low on raw materials, **crawler units** travel up and down
 #### Phase 3: Ground Attachment and the "Last Mile"
 The final approach of the downward spider to Earth's surface is the most mechanically delicate phase of deployment.
 
-**The "last mile" challenge**: In the upper portion of its descent the cable remains taut due to the tension between gravity (pulling down) and the centrifugal force of the orbital system (pulling up). However, as the cable tip approaches the surface — roughly the final hundreds of kilometers — this tension decreases and atmospheric effects (wind, drag) become dominant. The cable tip can drift laterally, making precise targeting of the ground station difficult.
+**The "last mile" challenge**: Here, "last mile" is used idiomatically to describe the terminal descent phase. In the upper portion of its descent the cable remains taut due to the tension between gravity (pulling down) and the centrifugal force of the orbital system (pulling up). However, as the cable tip approaches the surface — roughly the final hundreds of kilometers — this tension decreases and atmospheric effects (wind, drag) become dominant. The cable tip can drift laterally, making precise targeting of the ground station difficult.
 
 Proposed mitigations for this phase:
 - **Active guidance thrusters** on the spider unit to correct lateral drift during the final descent.
@@ -218,7 +218,7 @@ Throughout Phase 2, **ground station construction proceeds in parallel**. The gr
 
 #### Phase 4: Commissioning
 1. The cable end is attached to the ground station and tensioned.
-2. The spider unit is detached from the cable and recovered.
+2. The downward spider unit is detached from the cable and recovered.
 3. A first supply pod completes a full round-trip (ground → GEO → ground) to certify the system.
 4. Official operational announcement follows successful round-trip.
 
