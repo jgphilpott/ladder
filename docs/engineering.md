@@ -181,37 +181,49 @@ Maintaining alignment requires:
 
 ## Deployment Strategy
 
+### Overview
+
+The elevator system has three major components: the **space station** (geostationary anchor), the **cable**, and the **ground station**. Deployment proceeds in four phases.
+
 ### Initial Construction Sequence
 
-#### Phase 1: Counterweight Deployment
-1. Launch counterweight to beyond GEO
-2. Establish stable orbit and communications
-3. Begin cable deployment downward toward Earth
+#### Phase 1: Space Station Deployment
+1. Launch and establish a geostationary station directly above the selected anchor location.
+2. This station serves as the orbital anchor point and houses the spider manufacturing units.
+3. This stage relies on mature geostationary deployment and station-keeping techniques, though the station scale and systems integration challenges are larger than a typical satellite and closer to a crewed space station.
 
-#### Phase 2: Cable Deployment
-1. Deploy cable from counterweight (unreeling downward)
-2. Simultaneously deploy cable upward to maintain balance
-3. Monitor stress and dynamics continuously
-4. Takes months to years depending on method
+#### Phase 2: Cable Printing via Dual Spider Units
+This is the primary innovation of the deployment strategy — cable is manufactured in-situ rather than unspooled from a pre-made reel.
 
-#### Phase 3: Ground Attachment
-1. Lower end reaches Earth's surface
-2. Attach to ground station/platform
-3. Tension and stabilize system
-4. Initial certification and testing
+Two specialized **spider units** (advanced in-space 3D printers) are released from the space station simultaneously:
 
-#### Phase 4: Capacity Increase
-1. Deploy first climber for cable inspection
-2. Begin operations with small payloads
-3. Add parallel cables for capacity
-4. Scale up to full operational capability
+- **Downward spider**: Descends toward Earth, printing/manufacturing the cable behind it as it goes.
+- **Upward spider**: Ascends away from Earth, printing/manufacturing the counterweight cable in the opposite direction.
 
-### Alternative: Initial Seed Cable
-Deploy minimal cable first:
-- Small diameter, sufficient for small climbers only
-- Use first climbers to transport materials up
-- Build up cable in-situ using climbing "construction" vehicles
-- Gradually increase capacity
+Deploying both simultaneously is essential: the growing mass of the downward cable would otherwise pull the station out of geostationary orbit. The upward cable acts as a counterbalance, keeping the system's center of mass at GEO throughout construction.
+
+If either spider runs low on raw materials, **crawler units** travel up and down the already-printed cable segments to ferry additional supplies from the space station.
+
+#### Phase 3: Ground Attachment and the "Last Mile"
+The final approach of the downward spider to Earth's surface is the most mechanically delicate phase of deployment.
+
+**The "last mile" challenge**: Here, "last mile" is used idiomatically to describe the terminal descent phase. In the upper portion of its descent the cable remains taut due to the tension between gravity (pulling down) and the centrifugal force of the orbital system (pulling up). However, as the cable tip approaches the surface — roughly the final hundreds of kilometers — this tension decreases and atmospheric effects (wind, drag) become dominant. The cable tip can drift laterally, making precise targeting of the ground station difficult.
+
+Proposed mitigations for this phase:
+- **Active guidance thrusters** on the spider unit to correct lateral drift during the final descent.
+- **Tethered retrieval**: A high-altitude aircraft or balloon meets the cable at a safe altitude and guides it to the ground anchor point.
+- **Flexible anchor zone**: The ground station is designed with a wide acceptance radius, with final precise attachment made after the cable is secured.
+
+Throughout Phase 2, **ground station construction proceeds in parallel**. The ground station must be fully complete and ready to receive the cable well before the spider begins its final approach — the closer the spider gets, the less margin there is for ground-side delays.
+
+#### Phase 4: Commissioning
+1. The cable end is attached to the ground station and tensioned.
+2. The downward spider unit is detached from the cable and recovered.
+3. A first supply pod completes a full round-trip (ground → GEO → ground) to certify the system.
+4. Official operational announcement follows successful round-trip.
+
+### Spider Unit Retirement
+Once the downward spider has been detached and recovered from the ground station, it will be preserved and donated to a museum as a historic artifact — the first machine to manufacture a structure spanning from Earth's surface to geostationary orbit.
 
 ## Risk Mitigation
 
